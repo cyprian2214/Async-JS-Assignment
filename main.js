@@ -1,5 +1,7 @@
 // Async JS Assignment
 
+// github link: https://github.com/cyprian2214/Async-JS-Assignment
+
 // 1. Create a function that calls ‘sayHello’ after 2 seconds
 
 function sayHello() {
